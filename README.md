@@ -26,6 +26,7 @@ This is the repository of workshop4 group5 for the course COMP 8260 in Semester 
 + Done:
     * Write basic POV ✔
     * Used DT tools to analyze the project ✔
+    * prepare basic landing page ✔
 
 &emsp;
 &emsp;
@@ -33,6 +34,7 @@ This is the repository of workshop4 group5 for the course COMP 8260 in Semester 
 + Work target:
     * write basic POV
     * try to use DT tools to analyze the project
+    * prepare basic landing page
 
 + Done:
     * collect data: data about Kenya's employment and ICT market ✔
