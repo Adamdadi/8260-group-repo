@@ -1,6 +1,8 @@
 # COMP8260-workshop4-group5
 This is the repository of workshop4 group5 for the course COMP 8260 in Semester 2, 2021
 
+Please visit our website: https://icteducation.godaddysites.com/
+
 
 ## ====== Project Process update 2021.9.23 ======
 + Work target:
